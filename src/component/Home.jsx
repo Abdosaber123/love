@@ -5,7 +5,7 @@ export default function Home() {
     const [pass , setPass] = useState("")
     const nav = useNavigate()
     function acceptPass() {
-        if(pass != "love"){
+        if(pass != "BestFriendForEver"){
             window.alert("Check Your Pass My Love ♥️")
             
         }else{
