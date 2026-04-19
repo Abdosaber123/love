@@ -13,7 +13,7 @@ export default function Home() {
             
         }
     }
-    
+    console.log("test");
   return (
     <div className="groupt h-screen bg-[#CF8161] py-24  ">
         <div className="container">
